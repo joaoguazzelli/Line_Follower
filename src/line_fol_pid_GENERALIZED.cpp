@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 //Advanced Line Follower Code (Basic version same as Maze solver ver. 12.0)
 
 //Generalized Config

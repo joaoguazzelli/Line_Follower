@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 // IR Sensors
 int sensor1 = 2;      // Left most sensor
 int sensor2 = 3;
